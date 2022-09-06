@@ -6,11 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class PruebaPidApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(PruebaPidApplication.class, args);
-
-QUISPE DIAZ RAUL KEVIN
-GRUPO 3
-	}
-
+	public void metodo(){
+}
 }
