@@ -1,10 +1,7 @@
 package com.cibertec;
 
-public class JosueNanez {
-	
+public class ErikNolazco {
 	public void metodo() {
 		
 	}
-
 }
-
