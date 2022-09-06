@@ -1,9 +1,8 @@
 package com.cibertec;
 
-public class CristhianRojas{
+public class IsvanCabrera {
 
 	public void metodo() {
-		 
-	 }
-
+		
+	}
 }
