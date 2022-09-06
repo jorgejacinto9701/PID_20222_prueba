@@ -2,7 +2,7 @@ package com.cibertec;
 
 public class IsvanCabrera {
 
-	public void metodo() {
+	public void metodos() {
 		
 	}
 }
