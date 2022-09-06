@@ -1,6 +1,6 @@
 package com.cibertec;
 
-public class LuisCuya{
+public class Cuya{
 
 
 

@@ -1,6 +1,6 @@
 package com.cibertec;
 
-public Class CristhianRojas{
+public class CristhianRojas{
 
 
 }
